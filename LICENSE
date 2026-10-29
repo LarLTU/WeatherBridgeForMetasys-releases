@@ -1,0 +1,65 @@
+Weather Bridge for Metasys - End User License Agreement
+
+Copyright (c) 2026 Larry Sinkevicius. All rights reserved.
+
+This agreement is between you (the person or organisation installing or using the software, the "Licensee") and
+Larry Sinkevicius (the "Licensor"). By installing, copying or using Weather Bridge for Metasys (the "Software"),
+including its installer, program files, documentation and built-in help, you agree to these terms. If you do not agree,
+do not install or use the Software.
+
+1. LICENSE GRANT
+   The Licensor grants the Licensee a non-exclusive, non-transferable, non-sublicensable licence to install and use
+   the released binaries of the Software (the installer published by the Licensor and the files it installs), on the
+   Licensee's own servers, for the Licensee's own building automation sites or for sites the Licensee operates or
+   services for its customers.
+
+2. RESTRICTIONS
+   Except as this agreement expressly allows or applicable law requires despite this limitation, the Licensee may not:
+   (a) copy, distribute, sell, rent, lease, lend, sublicense, publish or otherwise make the Software available to
+       others, other than installing it at the sites described in section 1;
+   (b) reverse engineer, decompile, disassemble or otherwise try to derive the source code of the Software;
+   (c) modify, adapt, translate or create derivative works of the Software;
+   (d) remove or alter any copyright, trademark, licence or other notice in the Software.
+
+3. OWNERSHIP
+   The Software is licensed, not sold. The Licensor keeps all rights, title and interest in the Software. All rights
+   not expressly granted are reserved.
+
+4. THIRD-PARTY COMPONENTS AND SERVICES
+   The Software includes open-source components that are licensed under their own terms, listed in
+   THIRD-PARTY-NOTICES.md. Those terms apply to those components and are not limited by this agreement.
+   The Software retrieves data from third-party services (OpenWeather, MET Norway, the US National Weather Service and,
+   if enabled, GitHub). The Licensee is responsible for holding any account, key or subscription those services
+   require and for complying with their terms.
+
+5. NO AFFILIATION WITH JOHNSON CONTROLS
+   The Software is an independent product. It is not affiliated with, sponsored by, endorsed by or promoted by Johnson
+   Controls International plc or its subsidiaries (JCI). Metasys is a registered trademark of Johnson Controls; all
+   other trademarks belong to their owners. The Software is not a JCI product, is not supported by JCI, and has no ties
+   to JCI. It interacts with Metasys only through its published API. The Licensee is responsible for holding the
+   Metasys licences (such as MONCMD-API) that its use requires.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+   WITHOUT LIMITATION ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT, OR
+   THAT IT WILL BE ERROR-FREE OR UNINTERRUPTED. WEATHER DATA AND FORECASTS MAY BE INACCURATE, LATE OR MISSING. THE
+   LICENSEE IS SOLELY RESPONSIBLE FOR HOW WEATHER VALUES ARE USED IN BUILDING CONTROL SEQUENCES, ALARMS AND ANY OTHER
+   DECISIONS, AND FOR PROVIDING SAFE DEFAULTS WHEN THEY ARE UNAVAILABLE.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL THE LICENSOR BE LIABLE FOR ANY INDIRECT,
+   INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF PROFITS, REVENUE, DATA, USE OR
+   GOODWILL, OR FOR EQUIPMENT DAMAGE, ENERGY COSTS OR BUSINESS INTERRUPTION, ARISING OUT OF OR RELATED TO THE SOFTWARE,
+   HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE LICENSOR'S
+   TOTAL LIABILITY ARISING OUT OF OR RELATED TO THIS AGREEMENT OR THE SOFTWARE WILL NOT EXCEED THE AMOUNT THE LICENSEE
+   PAID FOR THE SOFTWARE IN THE TWELVE MONTHS BEFORE THE CLAIM, OR USD 100 IF NOTHING WAS PAID. SOME JURISDICTIONS DO
+   NOT ALLOW THESE EXCLUSIONS OR LIMITATIONS, SO THEY APPLY ONLY TO THE EXTENT THE LAW ALLOWS.
+
+8. TERMINATION
+   This licence ends automatically if the Licensee breaches it. On termination the Licensee must stop using the
+   Software and uninstall it. Sections 3 to 7 and 9 survive termination.
+
+9. GENERAL
+   This agreement is the entire agreement about the Software and replaces any earlier understanding. If a provision is
+   held unenforceable, the rest remains in effect. A failure to enforce a provision is not a waiver. Separate written
+   terms agreed with the Licensor (for example, a support or commercial agreement) take precedence where they differ.
