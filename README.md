@@ -1,6 +1,7 @@
 # Weather Bridge for Metasys — installer downloads
 
-This repository only publishes the installers for **Weather Bridge for Metasys**. It contains no source code.
+This repository publishes the installers for **Weather Bridge for Metasys**, with their license agreement and
+third-party notices. It contains no source code.
 
 **Not affiliated with Johnson Controls.** Weather Bridge for Metasys is an independent product. It is not affiliated
 with, sponsored by, endorsed by or promoted by Johnson Controls International plc or its subsidiaries (JCI). Metasys is
@@ -25,8 +26,8 @@ Releases are published here automatically when a version is released.
 
 ## License and notices
 
-Weather Bridge for Metasys is proprietary software, © 2026 Larry Sinkevicius, all rights reserved. Downloading,
-installing or using it is subject to the [license agreement](LICENSE), which the installer (1.7.7 and later) also
+Weather Bridge for Metasys is proprietary software, © 2026 Larry Sinkevicius, all rights reserved. Installing,
+copying or using it is subject to the [license agreement](LICENSE), which the installer (1.7.7 and later) also
 shows. Only the released installers are licensed for use; nothing here grants a right to redistribute them. The
 open-source components the program includes, and the terms of the weather data sources it uses (OpenWeather,
 MET Norway, US National Weather Service), are in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).

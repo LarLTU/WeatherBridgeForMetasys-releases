@@ -1,9 +1,9 @@
 # Third-party notices
 
 Weather Bridge for Metasys is proprietary software (see [LICENSE](LICENSE)). It includes the open-source components
-below, each under its own licence, and uses the data services listed after them. These notices are installed with the
-program (`THIRD-PARTY-NOTICES.md` in the install folder) and summarised in the built-in Help under *About, trademarks
-and licenses*.
+below, each under its own licence, and uses the data services listed after them. From version 1.7.7, these notices are installed
+with the program (`THIRD-PARTY-NOTICES.md` in the install folder) and summarised in the built-in Help under *About,
+trademarks and licenses*; the dashboard credits described below are also from 1.7.7.
 
 ## Trademarks
 
